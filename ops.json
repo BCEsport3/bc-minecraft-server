@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "fe97d2ab-1b23-3c37-a1f8-57f4db34e250",
+    "name": "bcesport3",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "38e06c3a-29ef-3d15-818d-e2c45b3e562c",
+    "name": "bcesport2",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "fc5c9101-cabf-3c50-b4be-73758c4ae650",
+    "name": "Kitana_on_Snow",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
